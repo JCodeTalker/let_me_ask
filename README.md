@@ -1,1 +1,1 @@
-It's a web app made for live Q&A with one host.
+It's a web app for live Q&A with one host, made using React and Firebase.
